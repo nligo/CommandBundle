@@ -1,10 +1,13 @@
 {
     "name": "nligo/command-bundle",
+    "description": "this is my first composer demo",
+    "type": "library",
     "authors": [
         {
             "name": "nligo",
             "email": "coffey@nligo.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }

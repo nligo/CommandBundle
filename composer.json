@@ -1,0 +1,10 @@
+{
+    "name": "nligo/command-bundle",
+    "authors": [
+        {
+            "name": "nligo",
+            "email": "coffey@nligo.com"
+        }
+    ],
+    "require": {}
+}
